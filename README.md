@@ -10,3 +10,5 @@ Grupo 10-3 de Aplicaciones moviles
 -Mysql
 
 ![Logo Batman](imagenes/OIP.jpg)
+
+Esta informacion se agrego desde la casa
